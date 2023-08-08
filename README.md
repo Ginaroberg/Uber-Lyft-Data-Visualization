@@ -1,2 +1,2 @@
-# Uber-Lyft-Data_Visualization
+# Uber-Lyft-Data-Visualization
 Data Visualization Final Project
